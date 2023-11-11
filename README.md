@@ -1,8 +1,20 @@
 # Hangman
+what is does 
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
 
+what is the aim 
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
 
+what is learnt 
+
+
+File Structure 
+hangman720
+--hangman 
+--.gitignore
+--README.md
+--milestone_2.py
+--milestone_3.py 
 
 Add documentation to your GitHub README file. You can refer to the relevant lesson in the prerequisites for this task for more information.
 
