@@ -1,31 +1,59 @@
 # Hangman
-what is does 
+## what is does 
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
 
-what is the aim 
+## what is the aim 
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
 
-what is learnt 
+## what is learnt 
+I learn how to utilise different functions within and outside class. 
 
+## Installation instructions
+1. Git copy repository from https://github.com/raisarin/hangman720.git
+2. Run python mielstone_5.py
 
-File Structure 
+## Usage instructions
+1. Update word_list variable to your preference
+
+## File Structure 
 hangman720
 --hangman 
---.gitignore
+  
+  --hangman_Template.py
+
+-.gitignore
+
 --README.md
+
 --milestone_2.py
+
 --milestone_3.py 
+
 --milestone_4.py
 
-Add documentation to your GitHub README file. You can refer to the relevant lesson in the prerequisites for this task for more information.
+--milestone_5.py 
 
-At minimum, your README file should contain the following information:
+# License information
+The MIT License (MIT)
 
-Project Title
-Table of Contents, if the README file is long
-A description of the project: what it does, the aim of the project, and what you learned
-Installation instructions
-Usage instructions
-File structure of the project
-License information
-You don't have to write all of this at once, but make sure to update your README file as you go along, so that you don't forget to add anything.
+Copyright (c) .NET Foundation and Contributors
+
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
