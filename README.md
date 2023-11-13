@@ -1,37 +1,19 @@
 # Hangman
-## what is does 
+
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
 
-## what is the aim 
-This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
+## Aim 
+This implements the Hangman game, where the computer thinks of a word and the user tries to guess it. 
 
 ## what is learnt 
-I learn how to utilise different functions within and outside class. 
+I learned how to utilise different functions within and outside class. 
 
 ## Installation instructions
 1. Git copy repository from https://github.com/raisarin/hangman720.git
 2. Run python mielstone_5.py
 
 ## Usage instructions
-1. Update word_list variable to your preference
-
-## File Structure 
-hangman720
---hangman 
-  
-  --hangman_Template.py
-
--.gitignore
-
---README.md
-
---milestone_2.py
-
---milestone_3.py 
-
---milestone_4.py
-
---milestone_5.py 
+1. Update the word_list variable to your preference
 
 # License information
 The MIT License (MIT)
